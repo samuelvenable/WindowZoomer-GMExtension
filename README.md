@@ -1,0 +1,1 @@
+# WindowZoomer GameMaker Extension
